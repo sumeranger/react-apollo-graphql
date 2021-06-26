@@ -1,0 +1,30 @@
+.continentsContainer {
+  margin-top: 3em;
+  margin-left: 1.5em;
+}
+
+.continentsTableTitle {
+  margin-bottom: 15px;
+  font-weight: bold;
+  font-weight: 900;
+}
+
+.continentsTable {
+  border-collapse: collapse;
+}
+
+.continentsTableHead {
+  border: none;
+  background-color: #dddddd;
+  padding: 8px;
+  text-align: left;
+  font-weight: 700;
+  font-weight: bold;
+}
+
+.continentsTableCell {
+  border-bottom: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+  font-weight: 400;
+}
